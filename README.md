@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vehbiu
-- 👀 I’m interested in Full-stack devlopment
-- 🌱 I’m currently learning new languages such as Rust & Go
-- 📫 You can contact me via Discord, vehbi#2140
+- 👀 I’m interested in learning more languages
+- 📫 You can contact me via me@vehbi.me
 
 <!---
 vehbiu/vehbiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
